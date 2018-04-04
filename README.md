@@ -1,4 +1,4 @@
-L&T - Grain Size Distribution
+L&T Grain Size Distribution
 ======
 
 Th software "L & T Grain Size Distribution" allows to estimate the parameters of the particle size distribution, average particle size and specific surface area of nanoparticles using X-ray diffraction data. This calculation is based on the methodology presented in the R. Pielaszek, J. Alloys Compd. 382 (2004) 128
